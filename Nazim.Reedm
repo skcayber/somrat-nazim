@@ -1,0 +1,9 @@
+# somrat-nazim
+#pkg update 
+pkg upgrade 
+pkg install python 
+pkg install python2 
+pkg install git 
+git clone https://github.com/skcayber/somrat-nazim.git
+cd somrat-nazim
+python2 Somrat.Nazim.py
